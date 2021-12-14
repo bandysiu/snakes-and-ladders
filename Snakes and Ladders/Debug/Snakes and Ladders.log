@@ -3,30 +3,37 @@ C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(28,16): warning 
 C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(29,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(39,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(40,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(253,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(317,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(319,19): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(324,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(331,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(332,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(333,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(334,9): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(337,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(338,19): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(378,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(379,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(383,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(383,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(392,53): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(393,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(394,61): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(396,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(581,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(583,21): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(584,20): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(588,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(595,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(596,11): warning C4018: '>=': signed/unsigned mismatch
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(599,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(600,21): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(260,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(325,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(327,19): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(332,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(339,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(340,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(341,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(342,9): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(345,25): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(346,19): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(391,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(392,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(396,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(396,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(436,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(436,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(440,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(440,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(446,53): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(447,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(448,61): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(450,53): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(637,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(639,21): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(640,33): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(644,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(651,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(652,11): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(655,27): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(656,21): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(823,28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(837,46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\list.cpp(837,31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
   Snakes and Ladders.vcxproj -> C:\Users\Abelis\Desktop\VS Projects\Snakes and Ladders\Debug\Snakes and Ladders.exe
